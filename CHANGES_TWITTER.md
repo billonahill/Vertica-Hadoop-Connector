@@ -26,8 +26,5 @@ Then publish the following artifacts:
 
 ## Changes From Master:
 
-* Simplifying how build works
-  Branch [billonhill/improve_build](https://github.com/vertica/Vertica-Hadoop-Connector/pull/2)
-
-* Refactoring to improve per-task transaction isolation
-  Branch [billonahill/output_committer](https://github.com/vertica/Vertica-Hadoop-Connector/pull/3)
+* Simplifying how build works: [billonahill/improve_build](https://github.com/vertica/Vertica-Hadoop-Connector/pull/2)
+* Refactoring to improve per-task transaction isolation: [billonahill/output_committer](https://github.com/vertica/Vertica-Hadoop-Connector/pull/3)
